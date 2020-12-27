@@ -1,4 +1,4 @@
-Math 40 - Chapter 1
+Chapter 1
 
 Section 1.1
 
@@ -55,15 +55,16 @@ The text does not give many examples on naming properties, so here are a few: In
      = x + (5 + 10) Associative property of addition 
      = x + 15 (“Substitution property of equality” —we’re not responsible for this one. We substituted 15 for the “(5 + 10)”.)
 
- 2.  (-7 + a) + (-12)
-   = (a + (-7)) + (-12) Commutative property of addition (applied to the “a” and the “-7” inside the parentheses)
-   = a + (-7 + (-12)) Associative property of addition 
-   = a + (-19) (Substitution, again, not required) 
-   = a - 19 (This is the new definition of subtraction: addition of the opposite.) 
+2. (-7 + a) + (-12)
+     = (a + (-7)) + (-12) Commutative property of addition (applied to the “a” and the “-7” inside the parentheses)
+     = a + (-7 + (-12)) Associative property of addition 
+     = a + (-19) (Substitution, again, not required) 
+     = a - 19 (This is the new definition of subtraction: addition of the opposite.)
+     
 Be sure to name the property and the operation! That is, don’t just write “associativity”; write “associativity of addition”. 
 Here are some hints on identifying properties. 
-If only the grouping symbols moved but not the quantities, then you used associativity. 
-If only the quantities moved, but not the grouping symbols, then you probably used commutativity. 
+- If only the grouping symbols moved but not the quantities, then you used associativity. 
+- If only the quantities moved, but not the grouping symbols, then you probably used commutativity. 
 
 Section 1.5
 
@@ -120,6 +121,7 @@ In each, name the property that justifies each step. Hint: At each step, focus j
      = 8x + 12x (Substitution, again, not required of you) 
      = (8 + 12)x Distributive property of multn. over addn. “in reverse”
      = 20x (Substitution again)
+     
 Be sure to name the property and the operation! That is, don’t just write “associativity”; write “associativity of addition”. 
 Here are some hints on identifying properties. 
 - If only the grouping symbols moved but not the quantities, then you used associativity. 
