@@ -175,7 +175,6 @@ In #1-6, symbolize each.
 6. 3 less than the product of x and -14
 7. If x = -4 and y = -6, evaluate y - x^2
 8. If a = -2, b = -5, and c = 20, evaluate c/(a^2b)
-
 9. x^2 + x^3 
 10. A^2 + 6 
 11. (a + b)^2
@@ -237,6 +236,7 @@ Multiple Operations
 half the difference between x and 5 ——— 1/2(x -5)
 
 
+
 Section 1.9
 
 Finding an opposite by distributing an implied "-1")...Please note that if the instructions ask you to identify this operation, you must call it "opposite" or "negation". Do not call it "multiplication".
@@ -266,7 +266,6 @@ In #1-25: For each expression, (a) evaluate it, and (b) name the last operation 
 8. One hundred divided by twice five, then decreased by seven. 
 9. Forty less than twice the product of three and seventeen.
 10. Three-squared decreased by the ratio of two-cubed to 24.
-
 11. |-5|-2|17-10|
 12. 2|23-14|
 13. |(5-3)(30-28)|
@@ -277,7 +276,6 @@ In #1-25: For each expression, (a) evaluate it, and (b) name the last operation 
 18. 2^5-3^2
 19. -3^4
 20. (-3)^4
-
 21. -x^2 for x = -5
 22. |-x| for x = -10 
 23. |a - b| for a = 9 and b = 12
@@ -307,7 +305,7 @@ Additional Exercises
 8. 100/(2)5-7 = 100/10-7 = 10-7 = 3; subtraction 
 9. (2)(3(17))-40 = (2)51-40 = 102-40 = 62; subtraction 
 10. 3^2-2^3/24 = 9 - 8/24 = 9 - 2/6 = 9 - 1/3 = 27/3 - 1/3 = 26/3; subtraction
- 11.   |-5|-2|17-10| = 5-2(7) = 5-14 = -9; subtraction
+11. |-5|-2|17-10| = 5-2(7) = 5-14 = -9; subtraction
 12. 2|23-14| = 2(9) = 18; multiplication 
 13. |(5-3)(30-28)| = |(2)(2)| = |4| = 4; absolute value
 14. |(14)(8)-(25)(2)|/2 = |112 - 50|/2 = |62|/2 = 62/2 = 31; division 
@@ -335,7 +333,6 @@ An asterisk (*) means that the answer “multiplication” is not acceptable.
 8. 100/2(5) - 7 = 100/10 - 7 = 10 - 7 = 3. Subtraction.
 9. 2[(3)(17)] - 40 = 2[51] - 40 = 102 - 40 = 62. Subtraction.
 10. 26/3, Subtraction.
-
 11. (a) -9 (b) subtraction 
 12. (a) 18 (b) multiplication
 13. (a) 4 (b) absolute value 
@@ -346,7 +343,6 @@ An asterisk (*) means that the answer “multiplication” is not acceptable.
 18. (a) 23 (b) subtraction
 19. (a) -81 (b) negation*
 20. (a) 81 (b) exponentiation (fourth power)*
-
 21. (a) -25 (b) negation*
 22. (a) 10 (b) absolute value 
 23. (a) 3 (b) absolute value (not negation, not multiplication)
