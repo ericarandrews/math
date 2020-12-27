@@ -255,6 +255,7 @@ Recall that negating a number has exactly the same effect as multiplying by –1
 Absolute Values and the Order of Operations
 Absolute value bars are treated like a matched pair of grouping symbols. Thus: (1) We perform operations inside of a matched pair of absolute value bars before we take the absolute value itself. (2) We must take an absolute value before we perform any operations immediately outside the bars. (Of course, once we have performed those operations, the bars are gone.) Recall also that another word for the result of taking an absolute value is magnitude. Thus, the magnitude of –1.414 is 1.414.
 
+
 Additional Exercises
 In #1-25: For each expression, (a) evaluate it, and (b) name the last operation performed if we follow the Order of Operations strictly. You might need to zoom your browser to see the symbols clearly. 
 1. 100/(20)(5)
