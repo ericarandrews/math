@@ -3,7 +3,8 @@ Chapter 2
 Section 2.1
 
 Set Notation for Solution Sets
-If you want to impress me, don't just write your answers as naked numbers or as equations like x=3. Instead, use solution sets in your final answers. 
+If you want to impress me, don't just write your answers as naked numbers or as equations like x=3. 
+Instead, use solution sets in your final answers. 
 Instead of writing "3" or an equation like "x=3" as your final answer, put the 3 into a pair of braces like so: {3}. 
 Even better, use the set-membership symbol ∈ (read "is an element of") to indicate that x is an element of that set; you do that by writing " 𝑥 ∈ {3} ". 
 Later in the course, we will solve equations that have more than one solution, say x=–1 or x=2. In such a case, we might write 𝑥 ∈ {−1,2} .
@@ -18,7 +19,8 @@ Section 2.2
 The next items are what I call pathological cases. Either there are no solutions or all real numbers are solutions. 
 To use sets, use ℝ; for the set of all real numbers and the empty set ∅; if there are no solutions. 
 
-These symbols as they are denote sets. Do not put braces around them! Note also that I want you to manipulate the equations until their variables are gone. 
+These symbols as they are denote sets. Do not put braces around them! 
+Note also that I want you to manipulate the equations until their variables are gone. 
 That is, don't stop at x + 7 = x + 7. 
 Subtract the x's to get 7 = 7. 
 Aim to get a numerical equation that is either patently true or patently false.
@@ -28,15 +30,19 @@ Aim to get a numerical equation that is either patently true or patently false.
  I recommend them so strongly that, if you do not follow them and you get a wrong answer I will not give you any partial credit. 
 (1) Simplify each side individually. (That is, do nothing that affects both sides simultaneously.) Once each side is simplified...
 (1b) If necessary, use an LCD to clear fractions or unwieldy decimals. Then...
-(2) Collect all the *variable* terms on one side, either the left or the right. (Specifically, do NOT transport any constant terms or factors yet.) 
+(2) Collect all the *variable* terms on one side, either the left or the right. 
+(Specifically, do NOT transport any constant terms or factors yet.) 
 There should now be only one occurrence of the variable, so...
 (3) Isolate it. You may now work with the individual constants.
 Think “SCI” as in “science”.
 
 Additional Exercises
-1. Symbolize and solve: Half of the sum of some unknown number and 24 equals twice that unknown number. What is that (formerly unknown) number?
-2. Symbolize and solve: Five less than the product of three and some unknown number is nine more than that unknown number. What is that number?
-3. Water pressure P in lbs-per-sq-ft at depth d ft is given by P = 15 + 5d/11. At what depth is the pressure 20.5 lbs-per-sq-ft?
+1. Symbolize and solve: Half of the sum of some unknown number and 24 equals twice that unknown number. 
+What is that (formerly unknown) number?
+2. Symbolize and solve: Five less than the product of three and some unknown number is nine more than that unknown number. 
+What is that number?
+3. Water pressure P in lbs-per-sq-ft at depth d ft is given by P = 15 + 5d/11. 
+At what depth is the pressure 20.5 lbs-per-sq-ft?
 4. Solve for x: 7x = -5x
 5. Solve for x: 1.8x = 9/5x
 
