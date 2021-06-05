@@ -23,7 +23,7 @@ Formulas - Numerical Expressions
 
 A = l * w
 A = (10)(5)
-A = 50 ft2
+A = 50 ft^2
       ______    
 5ft  |      |    
      |      |
@@ -36,7 +36,7 @@ Formulas - Variable Expressions
 
 A = l * w
 A = (x)(5)
-A = 5x ft2
+A = 5x ft^2
       ______    
 5ft  |      |    
      |      |
@@ -55,7 +55,7 @@ P = 2x +10ft
 
 Formulas - Variable Expressions
 
-A = 5x ft2 = 5(6) = 30 ft2
+A = 5x ft^2 = 5(6) = 30 ft^2
 P = 2x + 10ft = 2(6) + 10 = 22ft
 
       ______    
