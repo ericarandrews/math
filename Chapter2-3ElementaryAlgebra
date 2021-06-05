@@ -1,0 +1,458 @@
+Math 40 - Chapter 2-3
+
+
+Section 2.4
+
+
+Formulas - equations that state rules about relationships.
+
+A = l * w
+Area of a Rectangle
+
+P = 2l + 2w
+Perimeter of a Rectangle
+
+D = r * t
+Distance Traveled (Constant Rate)
+
+C = n * p
+Cost
+
+
+Formulas - Numerical Expressions
+
+A = l * w
+A = (10)(5)
+A = 50 ft2
+      ______    
+5ft  |      |    
+     |      |
+     |______|
+       10ft
+
+
+
+Formulas - Variable Expressions
+
+A = l * w
+A = (x)(5)
+A = 5x ft2
+      ______    
+5ft  |      |    
+     |      |
+     |______|
+       x ft
+
+
+
+Formulas - Variable Expressions
+
+P = 2l + 2w
+P = 2(x) + 2(5)
+P = 2x +10ft
+
+
+
+Formulas - Variable Expressions
+
+A = 5x ft2 = 5(6) = 30 ft2
+P = 2x + 10ft = 2(6) + 10 = 22ft
+
+      ______    
+5ft  |      |    
+     |      |
+     |______|
+        6ft
+
+
+
+Formulas - Variable Expressions
+
+(h + c) hours        D = r * t
+@                    D = (20)(h + c)
+20 mph               D = 20(h + c) miles
+
+
+
+Formulas - Variable Expressions
+
+P = Dollars
+N = 3
+C = Total Cost?
+
+C = N * P
+C = (3)(P)
+C = 3P
+
+*************************************************************************************************
+    
+Perimeter of a Rectangle
+
+Ex. The perimeter of a rectangle pen is 136 meters. 
+If the length is 5 meters more than twice the width, what are the dimensions of the pen?
+
+P = 2l + 2w
+l = 2w + 5
+
+136 = 2l + 2w
+136 = 2(2w + 5) + 2w
+136 = 4w + 10 + 2w
+136 = 6w + 10
+126 = 6w 
+w = 21
+
+l = 2w + 5
+l = 2(21) + 5
+l = 42 + 5
+l = 47
+
+Testing: P = 2l + 2w 
+136 = 2(47) + 2(21)  
+136 = 94 + 42
+136 = 136
+
+*************************************************************************************************
+
+Section 2.5
+
+1.) Seven less than half of some number is five more than twice that number. Find that number. 
+(½)x - 7 = 2x + 5
+[(½)x - 7 = 2x + 5](2)
+x - 14 = 4x + 10                      
+-14 = 3x + 10
+-24 = 3x 
+x = -8
+
+*************************************************************************************************
+
+2.) The width of a rectangle is four centimeters longer than one-third the length. Find the dimensions if the perimeter is 144 cm.
+
+P = 2L + 2W;  
+W = (⅓)L + 4;  
+P = 144;  
+
+P = 2L + 2W
+144 = 2L +  2[(⅓)L + 4]
+144 = 2L + (⅔)L + 8
+144 = 2 (⅔)L + 8
+136 = 2 (⅔)L
+136 = (8/3) L
+[136 = (8/3)L](3)
+408 = 8L
+L = 51
+
+W = (⅓)(51) + 4 
+W = (51/3) + 4 
+W = 17 + 4 
+W = 21
+
+Testing: 
+P = 2L + 2W
+144 = 2(51) + 2(21)
+144 = 102 + 42
+144 = 144
+
+*************************************************************************************************
+
+3.) In a triangle, the second angle is 12 Degrees smaller than half the first and the third angle is three times as large as the second. 
+Find all three angle measures. 
+
+1st Angle: x
+2nd Angle: (½)(x) - 12
+3rd Angle: 3[(½)(x) - 12]
+
+x + (½)(x) - 12 + 3[(½)(x) - 12] = 180
+x + (½)x - 12 + (3/2)x - 36 = 180
+3x - 48 = 180
+3x = 228 
+x = 76
+ 
+(½)(76) - 12 = 
+38 - 12 = 26
+
+3[(½)(76)-12] = 
+3(38 - 12) = 3(26) = 78
+
+1st Angle: 76
+2nd Angle: 26
+3rd Angle: 78 
+Testing: 76 + 26 + 78 = 180
+
+*************************************************************************************************
+
+4.) Solve Peppermint Pattie’s problem:
+In driving from Town A to Town D, you pass first through Town B and then through Town C. 
+It is 10 miles farther from Town A to Town B than from Town B to Town C and 10 miles farther from Town B to Town C than from Town C to Town D. 
+If it is 390 miles from Town A to Town D, how far is it from Town A to Town B?
+Hint: Easiest is to find the distance from Town C to Town D first. 
+
+Town A to Town D: 
+
+- Solve Town B to Town C
+- 10 miles more from Town A to Town B than from Town B to Town C
+- 10 miles more from Town B to Town C than from Town C to Town D
+- 390 miles from Town A to Town D
+- How far is it from Town A to Town B?
+- Hint: Easiest to find the distance from Town C to Town D first.
+
+Town B to C: 
+(C to D + 10) = x + 10
+Town A to B: 
+(B to C + 10) = x + 10 + 10
+Town C to D: x
+
+390 = x + (x + 10) + (x + 10 + 10)
+390 = 3x + 30 
+360 = 3x 
+x = 120
+
+C to D = 120 
+B to C = 120 + 10 = 130
+A to B = 130 + 10 = 140
+
+*************************************************************************************************
+
+In #5 and #6, you are given an equation. Write a contextualized word problem for which you would set up the given equation. 
+(“Contextualized” means that the variable and the numbers have actual interpretations, like measurements or money.)
+
+*************************************************************************************************
+
+5.)
+2[(⅓)x - 5] + 2x = 1002[(⅓)x - 5] + 2x = 100
+
+For the measurements of an experiment, the right amounts have to be poured and mixed in order to discover a certain conclusion. 
+The total of the measurement amounts equals to 100. The second beaker is twice that of the first beaker. 
+The third beaker is twice 5 less than (⅓) of the first beaker. What is the measurement for the first beaker?
+
+2[(⅓)x − 5] + 2x = 100
+(⅔)x - 10 + 2x = 100
+2 (⅔)x - 10 = 100
+2 (⅔)x = 110
+[(8/3)x = 110]3
+8x = 330
+x = (165/4)
+
+*************************************************************************************************
+
+6.)
+x - 0.125x = 1200x - 0.125x = 1200
+
+The gas and engine fluids for the average driver adds to 1200 within a year. 
+The engine fluid is typically 0.125 times that of gas. What does the gas equal to?
+
+x − 0.125x = 1200
+x − 0.125x = 1200 
+0.875x  = 1200 
+x = 1371
+
+*************************************************************************************************
+                                    
+Section 2.6
+
+A tank leaves camp at 7 a.m. going 30 mph. A Jeep leaves at 9 a.m. going 55 mph following the same route. 
+At what time does the keep catch up to the tank? (Hint: Let x represent the tank’s elapsed time. 
+What expression represents the Jeep’s elapsed time?)
+A hiker leaves home at 10 a.m. and climbs uphill at 3 mph. 
+Upon reaching the summit, she returns immediately by the same route, hiking downhill at 5 mph, and returns home at 6 p.m. 
+At what time does she reach the summit? (Hint: Let x represent the elapsed time going uphill. 
+What expression represents the elapsed time downhill?)
+Biker Bill rides at 15 kph while biker Bob rides at 19 kph. One day, Bill biked 3 hours longer than Bob and he traveled 1 km farther than Bob. 
+How long does each biker bike that day? (BTW, “How long” means the length of time. When we want distance, we ask “How far?”)
+I have two metal blocks. The first costs $2 per lb; the second costs $3 per lb. The second block weighs 3 lb more than half the first. 
+Together, the blocks cost $100. What is each block’s weight? 
+Builder A builds a shed in 5 days. Builder B builds a shed in 3 days. How long does it take them to build a shed together? 
+
+
+1.)
+tank: 7am; 30mph;
+jeep: 9am; 55mph;
+x = tanks elapsed time = 2; 
+jeeps elapsed time = x-2; 
+tank e.t. = jeep e.t. 
+
+30x = 55(x-2)
+30x = 55x-110 
+-25x = -110
+x = 4.4
+
+4hrs + 7am = 11 am; 
+.4 * 60 minutes = 24;
+11:24am is when the jeep catches up to the tank. 
+
+Summary: 
+The Jeep’s time is x-2. The equation is 55(x-2)=30x. The Jeep catches up to the tank at 11:24 a.m.
+
+*************************************************************************************************
+
+2.)
+leave: 10am; uphill - 3mph;
+return: 6pm; downhill - 5mph;
+Uphill E.T. = x = 3mph(x)
+Downhill E.T. = 10am - 6pm = 8 - x = 5mph(8-x)
+
+5(8-x)=3x
+40 - 5x = 3x
+40 = 8x
+x = 5hrs                               
+                                
+10am + 5hrs = 3pm
+She reaches the summit at 3pm.
+
+Summary:
+The downhill time is 8-x. The equation is 5(8-x)=3x. She reaches the summit at 3 p.m.
+
+*************************************************************************************************
+
+3.)
+Bill: 15kph = x + 3 hours + 1 km
+Bob: 19kph = x 
+x = hours
+
+15(x + 3) = 19x + 1 
+15x + 45 = 19x + 1 
+15x + 44 = 19x 
+44 = 4x
+x = 11
+
+Bob’s hours = x = 11
+Bill’s hours = x + 3 = 14
+
+Summary:
+The equation is 15(x+3)=19x+1 where x = Bob’s time. Bob bikes for 11 hours. Bill bikes for 14 hours. Long day…
+
+*************************************************************************************************
+
+4.)
+Metal Block One: $2 : (½)x + 3
+Metal Block Two: $3 : x
+Total: $100
+
+100 = 2x + 3[(½)x + 3] 
+100 = 2x + 1 (½)x + 9
+100 = 3 (½)x + 9
+91 = 3 (½)x
+[91 = (7/2)x]2                              
+182 = 7x
+x = 26
+
+Metal Block One: 26(½) + 3 = 16lbs
+Metal Block Two: 26lbs
+
+Summary:
+The equation is 2x + 3[(½)x + 3] = 100 where x = the 1st block’s weight in pounds. The blocks weigh 26lbs and 16lbs, respectively.
+
+*************************************************************************************************
+
+5.)
+Builder A: 5 days 
+Builder B: 3 days 
+Builder-Days = 5 * 3 = 15
+Days it takes Builders = 5 + 3
+Builder-Days/Days it takes Builders
+(5*3) / (5+3) = (15/8) Days
+
+1.875 Days for Both Builders to Build a Shed.
+.875 * 24 hrs = 21 hrs 
+1 Day and 21 hrs to build the Shed together.
+
+Summary:
+Working together, they build a shed in (15/8) days, or 1-and-(⅞) days, or 1 day and 21 hours. Which of these answers do you feel is the best? 
+
+*************************************************************************************************
+
+Section 2.7
+
+Inequalities are like equations except they feature the symbols <, ≤, >, and ≥ instead of the equals sign.
+
+Do not just leave your answer as another inequality. Note that the interval notation for the set of all real numbers is (-∞,∞). 
+There is no interval notation for the empty set; we continue to use the symbol ∅; or just to write "no solutions;
+
+In the pathological cases, the answers are either the empty set ∅
+—with no interval notation—or the set of all real numbers—whose interval notation is (–∞,∞).
+
+Remember always to answer inequalities with interval notation even if the instructions don't explicitly mention it.
+
+
+*************************************************************************************************
+ 
+2.) Symbolize and find the solution set in interval notation: Six less than half of some number is at least fourteen more than that number. 
+
+(½)x - 6 ≥ x + 14
+(½)x -20 ≥ x
+-20 ≥ (½)x 
+-40 ≥ x
+Answer: (-∞, -40]
+
+3.) 
+4x - 4 < 2(x-2) + 2x
+4x - 4 < 2x - 4 + 2x
+4x - 4 < 4x - 4 
+FALSE! 
+Answer: ∅; No Solution!
+
+4.) 
+3(x+2) ≥ 9 + 3(x-1)
+3x + 6 ≥ 9 + 3x - 3
+3x + 6 ≥ 3x + 6
+TRUE!
+Answer: (-∞,∞); All Real Numbers!
+
+5.) 
+5(x-7) ≤ 8x - 3(x+1)
+5x - 35 ≤ 8x - 3x - 3
+5x - 35 ≤ 5x - 3 
+TRUE!
+Answer: (-∞,∞); All Real Numbers!
+
+*************************************************************************************************
+ 
+X Divided by Negative:
+
+-3n > 12 (If you divide or multiply by a negative number.)
+-3n/3 > 12/-3 (Reverse the Inequality symbol.)
+n < -4 (Solution! All numbers are less than -4.)
+
+
+X Divided by Negative - Solving Two-Step Inequalities:
+
+-2x - 5 ≥ 1 (Add 5 to both sides. Keep the sign the same when adding.)
+-2x ≥ 6 (Divide both sides by -2. Flip the sign when you divide both sides by a negative.)
+x ≤ -3 (Solution! All numbers are less than or equal to -3.)
+
+-3x + 5 ≤ -16 (Subtract to isolate the variable term) 
+-3x ≤ -21 (Divide by -3. Reverse the inequality symbol.) 
+x ≥ 7 (Solution! All numbers are greater than or equal to 7.)
+
+*************************************************************************************************
+ 
+No Solution and All Real Numbers:
+
+5(x + 12) = 7 + 5x
+5x + 60 = 7 + 5x
+60 ≠ 7 
+FALSE!
+Answer: ∅; No Solution!
+
+2(2x + 2) = 4x + 4
+4x + 4 = 4x + 4
+4 = 4
+TRUE!
+Answer: (-∞,∞); All Real Numbers!
+
+3x + 5 - x = 2x + 7
+2x + 5 = 2x + 7
+2x = 2x + 2
+0 = 2
+FALSE!
+Answer: ∅; No Solution!
+
+
+No Solution and All Real Numbers - Solving the Linear Equation:
+
+x - (2-7x) = 2x - 2(1-3x)
+x - 2 + 7x = 2x - 2 + 6x
+8x - 2 = 8x - 2
+-2 = -2
+TRUE!
+Answer: (-∞,∞); All Real Numbers!
+
