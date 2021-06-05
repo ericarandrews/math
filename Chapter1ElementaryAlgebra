@@ -1,0 +1,472 @@
+Math 40 - Chapter 1
+
+Section 1.1
+
+Remember that in algebra we almost always symbolize division with a fraction bar, not a divided-by sign "÷", not a slash "/". 
+Please never use the "x" for multiplication. I might very well deduct points for that.
+
+* Remember: We will not be using the internet to submit assignments. 
+Instead we will discuss the homework at our face-to-face class meetings and take a paper-and-pencil quiz afterward. 
+You may think of the quizzes as the part of the homework that you turn in.
+
+*************************************************************************************************
+
+Section 1.2
+
+Improper fractions and mixed ::ahem::  NUMERALS. (please don't call them mixed NUMBERS no matter what the text does.)
+
+* Please note that we rarely use mixed numerals in algebra. Just about the only time we use mixed numerals is when we must pay close attention to the order of several numbers, as on a number line.
+
+*************************************************************************************************
+
+Section 1.3
+
+* Our text calls {1, 2, 3,...} the set of Natural Numbers. Some people reserve that phrase for the set {0, 1, 2, 3,...} (starting with 0 instead of with 1). 
+This minor disagreement in terminology will not affect us because I will refer to the set {0, 1, 2, 3,...} as the whole numbers.
+* There are commonly-used symbols for the special sets of numbers that we will study in this course. These are
+     
+ℕℕ = the set of natural numbers (see the warning above)
+ℤℤ = the set of integers
+ℚℚ = the set of rational numbers
+ℝℝ = the set of real numbers
+
+An example of a nonreal number is √−1, which you will learn about in Intermediate Algebra.
+
+It is important to know that we can always express real numbers as decimals, possibly as infinite, non-repeating decimals. 
+For example, √2 = 1.4142135... (never repeating), and π = 3.1415926... (never repeating).
+
+* Please note that it is very important for us to know that a real number is rational if and only if its decimal expansion is repeating. 
+A terminating decimal counts as repeating because we can "pad it out" with copies of the digit zero ("0"). 
+Another word for "repeating" is "periodic" because we call the repeating block of digits the "period".
+* We aren't yet responsible for the following properties explicitly, but knowing them is helpful:
+
+• Between any two distinct real numbers there are infinitely many rational numbers and infinitely many irrational numbers.
+
+• The real numbers have nice algebraic properties that we will study soon: Associative, Commutative, and Distributive Properties.
+
+Additional Exercises 
+Put the correct symbol (< or >) between the given numbers. Do this using the LCD method. Do not use decimals!
+
+1.) (5/12) and (3/8)        2.) (9/14) and (23/35)
+
+Putative Answers
+#1.) (The LCD is 24.)   (5/12) > (3/8).     
+#2.) (The LCD is 70.)   (9/14) < (23/35).
+
+*************************************************************************************************
+
+Section 1.4
+
+As you read the narrative in this section, look for the words and phrases "additive inverse", "additive identity element","associative property", and "commutative property". 
+If you must abbreviate, please use five letters to abbreviate "associative", i.e., abbreviate it as "assoc." 
+Also, get in the habit of writing the properties' full names: Associative Property of Addition, etc. It's not enough just to write "Associative".
+
+Examples of Naming Properties
+The text does not give many examples on naming properties, so here are a few: 
+In each, name the property that justifies each step. 
+Hint: At each step, focus just on what changed, not on what stayed the same.
+
+
+1.) 10 + (5 + x)
+     = 10 + (x + 5) (Commutative property of addition - applied to the x and the 5 in the parentheses)
+     = (x + 5) + 10 (Commutative property of addition - applied to the 10 and the whole quantity “(x + 5)”)
+     = x + (5 + 10) (Associative property of addition) 
+     = x + 15 (“Substitution property of equality” —we’re not responsible for this one. We substituted 15 for the “(5 + 10)”.)
+
+
+ 2.) (-7 + a) + (-12)
+   = [(a + (-7)) + (-12)] (Commutative property of addition - applied to the “a” and the “-7” inside the parentheses)
+   = [a + (-7 + (-12))] (Associative property of addition) 
+   = [a + (-19)] (Substitution, again, not required) 
+   = [a - 19] (This is the new definition of subtraction: addition of the opposite.) 
+   
+   
+Be sure to name the property and the operation! 
+That is, don’t just write “associativity”; write “associativity of addition”. 
+Here are some hints on identifying properties. 
+If only the grouping symbols moved but not the quantities, then you used associativity. 
+If only the quantities moved, but not the grouping symbols, then you probably used commutativity. 
+
+*************************************************************************************************
+
+Section 1.5
+
+* We are also responsible for such two-word phrases as "less than", "smaller than", and "shorter than". 
+Unlike "minus" and "decreased by", these phrases reverse the order of the quantities they are between.
+
+Example: 
+"7 less than –18" means "–18 – 7", or –25. 
+It's the same as "–18 minus 7" or "-18 decreased by 7". 
+Pay attention to the order of the quantities! 
+
+
+Additional Exercises:
+In each, symbolize and evaluate the expression. 
+1.) 14 less than 50
+2.) 14 less than -50
+3.) 11 decreased by 35
+4.) -11 decreased by 35
+5.) 27 minus 100
+6.) -27 minus 100
+7.) 14 (⅓) less than 9.5, and write the answer as an improper fraction.
+8.) 14 (⅓) less than -9.5, and write the answer as an improper fraction.
+
+
+Convert decimals in fractions:
+- -9.5 to Fraction...
+- (-9.5/1) * (10/10) = (-95/10) 
+- Reduce the fraction... 
+- (-95/10) / (5/5) = (-19/2)
+- Note: 5 is the highest divisible number of both the numerator and the denominator.
+
+
+Putative Answers
+1.) 50 - 14 = 36
+2.) -50 - 14 = -64
+3.) 11 - 35 = -24
+4.) -11 - 35 = -46
+5.) 27 - 100 = -73
+6.) -27 - 100 = -127
+7.) 9.5 - 14 (⅓) = (19/2) - (43/3) = (-29/6)
+8.) 9.5 - 14 (⅓) = (19/2) - (43/3) = (-29/6)
+9.) -9.5 - 14 (⅓) = (-19/2) - (43/3) = (-143/6)
+
+*************************************************************************************************
+
+Section 1.6
+
+In each, name the property that justifies each step. 
+Hint: At each step, focus just on what changed, not on what stayed the same.
+
+1.) 
+10 + 7(5 + x)
+ = [10 + 7(x + 5)] (Commutative property of addition) 
+ = [10 + (7x + 35)] (Distributive property - of multiplication over addition.)
+ = [(7x + 35) + 10] (Commutative property of addition) 
+ = [7x + (35 + 10)] (Associative property of addition) 
+ = [7x + 45] (“Substitution” —we’re not responsible for naming this property)
+
+
+2.) 
+(2x)(4) + 12x
+= [(4)(2x) + 12x] (Commutative property of multiplication) 
+= [(4 * 2)x + 12x] (Associative property of multiplication) 
+= [8x + 12x] (Substitution, again, not required of you) 
+= [(8 + 12)x] (Distributive property of multiplication over addition “in reverse”)
+= [20x] (Substitution again)
+
+
+Be sure to name the property and the operation! That is, don’t just write “associativity”; write “associativity of addition”. 
+Here are some hints on identifying properties:
+If only the grouping symbols moved but not the quantities, then you used associativity. 
+If only the quantities moved but not the grouping symbols, then you probably used commutativity. But be careful; sometimes it’s distributivity.
+
+
+*************************************************************************************************
+
+Section 1.7
+
+
+Learn this alternative notation for exponentiation: 
+We sometimes use “x^n” (with an explicit operation symbol ^) to indicate “x to the nth power”, i.e., (x^n), 
+especially when keyboarding and we don’t feel like dealing with the math palette. 
+Some of you may already be familiar with that notation from a computer class. 
+Another equivalent notation is “x**n” but it’s gone out of fashion. (Are any of you old enough to remember Fortran?)
+
+Memorize the Order of Operations:
+Some of you might have been taught the mnemonic PEMDAS or "Please Excuse My Dear Aunt Sally" for the Order of Operations. 
+Please forget it!! It is misleading and yields incorrect answers for which I will not give you partial credit.
+
+
+First: Parentheses and Brackets
+Next: Exponents
+Then: Multiplication and Division (from left to right)
+Last: Addition and Subtraction (from left to right)
+
+
+Additional Exercises
+Please symbolize and evaluate the expressions below. 
+1.) 10 less than -2
+2.) 7 more than -16
+3.) 9 less than twice 3
+4.) 28 more than twice -50 
+5.) 17 more than twice -8
+6.) 40 less than twice the sum of -23 and 16
+
+In #7-9, evaluate each expression and name the LAST operation performed. 
+7.) 9 - [4^(3-1)]
+8.a.) [2^(5-2)]5+1
+8.b.) [2^(5-2)](5+1)
+9.) 12 - 2(10^1)
+
+
+Putative Answers
+1.) -2 - 10 = -12
+2.) -16 + 7 = -9
+3.) 2(3) - 9 = -3
+4.) 2(-50) + 28 = -72
+5.) 2(-8) + 17 = 1
+6.) 2(-23 + 16) - 40 = -54
+7.) -7, subtraction
+8.a.) 41, addition
+8.b.) 48, multiplication 
+9.) -8, subtraction 
+
+
+*************************************************************************************************
+
+Section 1.8
+
+
+Additional Exercises 
+In #1-6, symbolize each
+1.) The sum of x-squared and x-cubed
+2.) Six more than A-squared
+3.) The square of the sum of a and b
+4.) The fourth power of the product of u and v
+5.) -5 times the sum of x and y
+6.) 3 less than the product of x and -14
+7.) If x = -4 and y = -6, evaluate y - (x^2)
+8.) If a = -2, b = -5, and c = 20, evaluate c/(a^2b)
+
+
+Putative Answers
+1.) x^2 + x^3 
+2.) A^2 + 6 
+3.) (a + b)^2
+4.) (uv)^4
+5.) -5(x + y)
+6.) x(-14) - 3, but of course I would accept -14x-3
+7.) -22
+8.) -1
+
+
+*************************************************************************************************************************************
+
+
+What is the coefficient of 3x? 
+3
+What is the constant term?
+- When a number is not being multiplied by a variable, it is called a constant. 
+Example:
+- 7 is a constant; 7 is not a constant of 7x.
+What is the constant of 3x? 
+x
+
+
+Addition 
+Phrase  ———  Symbol                                   
+the sum of 5 and x  ———  5 + x              
+a number increased by 5  ———  n + 5
+5 more than a number  ———  n + 5
+
+
+Subtraction
+Phrase  ———  Symbol
+the difference between a number and 5  ———  n - 5
+a number decreased by 5  ———  n - 5
+5 less than a number  ———  n - 5
+5 minus a number  ———  5 - n
+
+
+Multiplication 
+Phrase  ———  Symbol
+the product of 5 and a number  ———  5n
+5 times a number  ———  5n
+one fifth of a number  ———  (1/5)n or (n/5)
+
+
+Division
+Phrase  ———  Symbol
+the quotient of a number and 5  ——— (n/5)
+a number divided by 5  ——— (n/5)
+
+
+Multiple Operations
+5 less than half of x ——— (1/2)x - 5 ——— (x/2) - 5
+
+
+Multiple Operations
+half the difference between x and 5 ——— (1/2)(x -5)
+
+
+*************************************************************************************************************************************
+
+
+Section 1.9
+
+Finding an opposite by distributing an implied "-1")...
+Please note that if the instructions ask you to identify this operation, you must call it "opposite" or "negation". Do not call it "multiplication".
+
+Chapter 1: Negation, Order of Operations and Absolute Values
+
+Intro
+In this supplemental section, we expand on some topics that don't get sufficient attention in our text: the relationship among negation, absolute value, and the Order of Operations.
+
+Negation and the Order of Operations
+The operation of taking an opposite is called negation. Note that negating a negative number has a positive result. 
+For example, –(–9)=9. Other examples: –(–4)=4, –(9)=–9, –(π)=–π, –(–π)=π, and –(0)=0.
+Recall that negating a number has exactly the same effect as multiplying by –1. 
+For this reason, negation has the same priority in the Order of Operations as multiplication. 
+In particular, negation comes after exponentiation.
+
+Absolute Values and the Order of Operations
+Absolute value bars are treated like a matched pair of grouping symbols. 
+Thus: 
+(1) We perform operations inside of a matched pair of absolute value bars before we take the absolute value itself. 
+(2) We must take an absolute value before we perform any operations immediately outside the bars. (Of course, once we have performed those operations, the bars are gone.) 
+Recall also that another word for the result of taking an absolute value is magnitude. Thus, the magnitude of –1.414 is 1.414.
+
+
+*************************************************************************************************************************************
+
+Additional Exercises
+In #1-25: For each expression, (a) evaluate it, and (b) name the last operation performed if we follow the Order of Operations strictly. 
+You might need to zoom your browser to see the symbols clearly. 
+1.) 100 / (20)(5)
+2.) 20 - 10(2)
+3.) 4 + 12(6) - 38 / 2
+4.) 12 + 18 / (6)(3)
+5.) 100 / (20(5))
+(Be sure you understand the distinction between #1 and #5.)
+6.) Six less than twice eight.
+7.) Fourteen more than the product of five and three.
+8.) One hundred divided by twice five, then decreased by seven. 
+9.) Forty less than twice the product of three and seventeen.
+10.) Three-squared decreased by the ratio of two-cubed to 24.
+
+11.) |-5|-2|17-10|
+12.) 2|23-14|
+13.) |(5-3)(30-28)|
+14.) [|(14)(8)-(25)(2)| ] / 2
+15.) |-35|-|-13|-|-12|
+16.) -7^2
+17.) (-7)^2
+18.) 2^5-3^2
+19.) -3^4
+20.) (-3)^4
+
+21.) -x^2 for x = -5
+22.) |-x| for x = -10 
+23.) |a - b| for a = 9 and b = 12
+24.) -|x - y|^2 for x = 6 and y = 1
+25.) 15/|m - n| for m = 17 and n = 12
+
+
+#26-34: Symbolize using x as the variable.
+
+26.) Five less than the magnitude of some number. 
+27.) Twice the magnitude of the sum of some number and twelve. 
+28.) Six less than the magnitude of six less than half of some number. 
+29.) Four less than some number is less than ten. 
+30.) Seven is more than three more than twice some number. 
+31.) Fifteen less than twice some number is positive.
+32.) Half the sum of some number and ten is negative. 
+33.) Some number decreased by twelve is at least six. 
+34.) The magnitude of the difference between some number and 4 is at most one-third.
+
+*************************************************************************************************************************************
+
+Additional Exercises
+1.) 100/(20)(5) = 5(5) = 25; multiplication
+2.) 20-10(2) = 20-20 = 0; subtraction
+3.) 4+12(6)-38/2 = 4+72-19 = 76-19 = 57; subtraction
+4.) 12+18/(6)(3) = 12+3(3) = 12+9 = 21; addition 
+5.) 100/(20(5)) = 100/100 = 1; division
+6.) (2)8-6 = 16-6 = 10; subtraction
+7.) 5(3)+14 = 15+14 = 29; addition 
+8.) 100/(2)5-7 = 100/10-7 = 10-7 = 3; subtraction 
+9.) (2)(3(17))-40 = (2)51-40 = 102-40 = 62; subtraction 
+10.) (3^2)-(2^3)/24 = 9 - 8/24 = 9 - (2/6) = 9 - (1/3) = (27/3) - (1/3) = (26/3); subtraction
+11.) |-5|-2|17-10| = 5-2(7) = 5-14 = -9; subtraction
+12.) 2|23-14| = 2(9) = 18; multiplication 
+13.) |(5-3)(30-28)| = |(2)(2)| = |4| = 4; absolute value
+14.) |(14)(8)-(25)(2)|/2 = |112 - 50|/2 = |62|/2 = (62/2) = 31; division 
+15.) |-35|-|-13|-|-12| = 35-13-12 = 22-12 = 10; subtraction 
+16.) -7^2 = -49; negation*
+17.) (-7)^2 = 49; exponentiation (squaring)*
+18.) 2^5 - 3^2 = 32 - 9 = 23; subtraction
+19.) -3^4 = -81; negation*
+20.) (-3)^4 = 81; exponentiation (fourth power)*
+21.) -(-5)^2 = -(25) = -25; negation
+22.) |-(-10)| = |10| = 10; absolute value
+23.) |9-12| = |-3| = 3; absolute value
+24.) -|6-1|^2 = -|5|^2 = -|25| = -25; negation 
+25.) 15/|17-12| = 15/|5| = 3; division
+
+Putative Answers
+An asterisk (*) means that the answer “multiplication” is not acceptable.
+1.) (a) 25 (b) multiplication 
+2.) (a) 0 (b) subtraction 
+3.) (a) 57 (b) subtraction 
+4.) (a) 21 (b) addition
+5.) (a) 1 (b) division 
+6.) 2(8)-6 = 16 - 6 = 10 (Subtraction)
+7.) (5)(3) + 14 = 15 + 14 = 29 (Addition)
+8.) [100/2(5)] - 7 = (100/10) - 7 = 10 - 7 = 3 (Subtraction)
+9.) 2[(3)(17)] - 40 = 2[51] - 40 = 102 - 40 = 62 (Subtraction)
+10.) (26/3) (Subtraction)
+
+11.) (a) -9 (b) subtraction 
+12.) (a) 18 (b) multiplication
+13.) (a) 4 (b) absolute value 
+14.) (a) 31 (b) division 
+15.) (a) 10 (b) subtraction
+16.) (a) -49 (b) negation*
+17.) (a) 49 (b) exponentiation (squaring)*
+18.) (a) 23 (b) subtraction
+19.) (a) -81 (b) negation*
+20.) (a) 81 (b) exponentiation (fourth power)*
+
+21.) (a) -25 (b) negation*
+22.) (a) 10 (b) absolute value 
+23.) (a) 3 (b) absolute value (not negation, not multiplication)
+24.) (a) -25 (b) negation*
+25.) (a) 3 (b) division 
+26.) |x| - 5
+27.) 2|x + 12|
+28.) |(1/2)x - 6| - 6
+29.) x - 4 < 10
+30.) 7 > 2x + 3
+31.) 2x - 15 > 0
+32.) (1/2)[x + 10] < 0
+33.) x - 12 ≥ 6
+34.) |x - 4| ≤ (1/3) 
+
+*************************************************************************************************************************************
+
+Translating Key Words and Phrases into Algebraic Expressions:
+Operation | Key Word/Phrase | Example | Translation 
+
+Addition (+) | plus | A number plus three | x + 3
+Addition (+) | more than | Ten more than a number | x + 10
+Addition (+) | the sum of | The sum of a number and five | x + 5
+Addition (+) | plus | the total of | The total of six and some number | 6 + x
+Addition (+) | plus | increased by | A number increased by two | x + 2
+Addition (+) | plus | added to | Eleven added to a number | x + 11
+
+Subtraction (-) | minus | A number minus seven | x - 7
+Subtraction (-) | less than | Four less than a number | x - 4
+Subtraction (-) | the difference of | The difference of a number and three | x - 3
+Subtraction (-) | less | Nine less a number | 9 - x 
+Subtraction (-) | decreased by | A number decreased by twelve | x - 12
+Subtraction (-) | subtracted from | Six subtracted from a number | x - 6
+
+Multiplication (x) | times | Eight times a number | 8x
+Multiplication (x) | the product of | The product of fourteen and a number | 14x
+Multiplication (x) | twice; double | Twice a number; double a number | 2x 
+Multiplication (x) | multiplied by | A number multiplied by negative six | -6x
+Multiplication (x) | of | Three fourths of a number | 3/4x
+
+Division (/) | the quotient of | The quotient of a number and seven | x/7
+Division (/) | divided by | Ten divided by a number | 10/x 
+Division (/) | the ratio of | The ratio of a number to fifteen | x/15
+
+Powers (x^n) | the square of; squared | The square of a number; a number squared | x^2
+Powers (x^n) | the cube of; cubed | The cube of a number; a number cubed | x^3 
+
+Equals (=) | equals | Seven less than a number equals ten | x - 7 = 10
+Equals (=) | is | Three times a number is negative six | 3x = -6 
+Equals (=) | is the same as | Eight is the same as twice a number | 8 = 2x
+Equals (=) | yields | Twelve added to a number yields five | x + 12 = 5
+Equals (=) | amounts to | Nine less a number amounts to twenty | 9 - x = 20
