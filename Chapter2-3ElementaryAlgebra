@@ -1,8 +1,8 @@
+
 Math 40 - Chapter 2-3
 
 
 Section 2.4
-
 
 Formulas - equations that state rules about relationships.
 
@@ -84,7 +84,9 @@ C = N * P
 C = (3)(P)
 C = 3P
 
+
 *************************************************************************************************
+    
     
 Perimeter of a Rectangle
 
@@ -111,7 +113,9 @@ Testing: P = 2l + 2w
 136 = 94 + 42
 136 = 136
 
-*************************************************************************************************
+
+*************************************************************************************************************************************
+
 
 Section 2.5
 
@@ -123,7 +127,9 @@ x - 14 = 4x + 10
 -24 = 3x 
 x = -8
 
+
 *************************************************************************************************
+
 
 2.) The width of a rectangle is four centimeters longer than one-third the length. Find the dimensions if the perimeter is 144 cm.
 
@@ -152,7 +158,9 @@ P = 2L + 2W
 144 = 102 + 42
 144 = 144
 
+
 *************************************************************************************************
+
 
 3.) In a triangle, the second angle is 12 Degrees smaller than half the first and the third angle is three times as large as the second. 
 Find all three angle measures. 
@@ -178,7 +186,9 @@ x = 76
 3rd Angle: 78 
 Testing: 76 + 26 + 78 = 180
 
+
 *************************************************************************************************
+
 
 4.) Solve Peppermint Pattie’s problem:
 In driving from Town A to Town D, you pass first through Town B and then through Town C. 
@@ -210,15 +220,18 @@ C to D = 120
 B to C = 120 + 10 = 130
 A to B = 130 + 10 = 140
 
+
 *************************************************************************************************
+
 
 In #5 and #6, you are given an equation. Write a contextualized word problem for which you would set up the given equation. 
 (“Contextualized” means that the variable and the numbers have actual interpretations, like measurements or money.)
 
+
 *************************************************************************************************
 
-5.)
-2[(⅓)x - 5] + 2x = 1002[(⅓)x - 5] + 2x = 100
+
+5.) 2[(⅓)x - 5] + 2x = 1002[(⅓)x - 5] + 2x = 100
 
 For the measurements of an experiment, the right amounts have to be poured and mixed in order to discover a certain conclusion. 
 The total of the measurement amounts equals to 100. The second beaker is twice that of the first beaker. 
@@ -245,8 +258,10 @@ x − 0.125x = 1200
 0.875x  = 1200 
 x = 1371
 
-*************************************************************************************************
-                                    
+
+*************************************************************************************************************************************
+           
+           
 Section 2.6
 
 A tank leaves camp at 7 a.m. going 30 mph. A Jeep leaves at 9 a.m. going 55 mph following the same route. 
@@ -282,7 +297,9 @@ x = 4.4
 Summary: 
 The Jeep’s time is x-2. The equation is 55(x-2)=30x. The Jeep catches up to the tank at 11:24 a.m.
 
+
 *************************************************************************************************
+
 
 2.)
 leave: 10am; uphill - 3mph;
@@ -301,7 +318,9 @@ She reaches the summit at 3pm.
 Summary:
 The downhill time is 8-x. The equation is 5(8-x)=3x. She reaches the summit at 3 p.m.
 
+
 *************************************************************************************************
+
 
 3.)
 Bill: 15kph = x + 3 hours + 1 km
@@ -320,7 +339,9 @@ Bill’s hours = x + 3 = 14
 Summary:
 The equation is 15(x+3)=19x+1 where x = Bob’s time. Bob bikes for 11 hours. Bill bikes for 14 hours. Long day…
 
+
 *************************************************************************************************
+
 
 4.)
 Metal Block One: $2 : (½)x + 3
@@ -341,7 +362,9 @@ Metal Block Two: 26lbs
 Summary:
 The equation is 2x + 3[(½)x + 3] = 100 where x = the 1st block’s weight in pounds. The blocks weigh 26lbs and 16lbs, respectively.
 
+
 *************************************************************************************************
+
 
 5.)
 Builder A: 5 days 
@@ -358,7 +381,9 @@ Builder-Days/Days it takes Builders
 Summary:
 Working together, they build a shed in (15/8) days, or 1-and-(⅞) days, or 1 day and 21 hours. Which of these answers do you feel is the best? 
 
-*************************************************************************************************
+
+*************************************************************************************************************************************
+
 
 Section 2.7
 
@@ -374,6 +399,7 @@ Remember always to answer inequalities with interval notation even if the instru
 
 
 *************************************************************************************************
+ 
  
 2.) Symbolize and find the solution set in interval notation: Six less than half of some number is at least fourteen more than that number. 
 
@@ -404,8 +430,10 @@ Answer: (-∞,∞); All Real Numbers!
 TRUE!
 Answer: (-∞,∞); All Real Numbers!
 
+
 *************************************************************************************************
- 
+
+
 X Divided by Negative:
 
 -3n > 12 (If you divide or multiply by a negative number.)
@@ -423,8 +451,10 @@ x ≤ -3 (Solution! All numbers are less than or equal to -3.)
 -3x ≤ -21 (Divide by -3. Reverse the inequality symbol.) 
 x ≥ 7 (Solution! All numbers are greater than or equal to 7.)
 
+
 *************************************************************************************************
- 
+
+
 No Solution and All Real Numbers:
 
 5(x + 12) = 7 + 5x
