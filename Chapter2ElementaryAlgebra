@@ -4,7 +4,10 @@ Math 40 - Chapter 2
 Section 2.1
 
 Set Notation for Solution Sets
-If you want to impress me, don't just write your answers as naked numbers or as equations like x=3. Instead, use solution sets in your final answers. Instead of writing "3" or an equation like "x=3" as your final answer, put the 3 into a pair of braces like so: {3}. Even better, use the set-membership symbol ∈ (read "is an element of") to indicate that x is an element of that set; you do that by writing " 𝑥 ∈ {3} ". Later in the course, we will solve equations that have more than one solution, say x=–1 or x=2. In such a case, we might write 𝑥 ∈ {−1,2} .
+If you want to impress me, don't just write your answers as naked numbers or as equations like x=3. Instead, use solution sets in your final answers. 
+Instead of writing "3" or an equation like "x=3" as your final answer, put the 3 into a pair of braces like so: {3}. 
+Even better, use the set-membership symbol ∈ (read "is an element of") to indicate that x is an element of that set; you do that by writing " 𝑥 ∈ {3} ". 
+Later in the course, we will solve equations that have more than one solution, say x=–1 or x=2. In such a case, we might write 𝑥 ∈ {−1,2} .
 
 Warnings about Set Notation
 Do not start indiscriminately sprinkling braces around all your answers---only when the instructions are to solve something.
@@ -15,17 +18,22 @@ Do not write stuff like "𝑥={3}". In the example above, x is a number, not a s
 
 Section 2.2
 
-The next items are what I call pathological cases. Either there are no solutions or all real numbers are solutions. To use sets, use ℝ; for the set of all real numbers and the empty set ∅; if there are no solutions. 
+The next items are what I call pathological cases. Either there are no solutions or all real numbers are solutions. 
+To use sets, use ℝ; for the set of all real numbers and the empty set ∅; if there are no solutions. 
 
-These symbols as they are denote sets. Do not put braces around them! Note also that I want you to manipulate the equations until their variables are gone. That is, don't stop at x + 7 = x + 7. 
+These symbols as they are denote sets. Do not put braces around them! 
+Note also that I want you to manipulate the equations until their variables are gone. That is, don't stop at x + 7 = x + 7. 
 Subtract the x's to get 7 = 7. 
 Aim to get a numerical equation that is either patently true or patently false.
 
 ***Alert!*** The SCI Method ***Alert***
- As you solve a linear equation, please do not manipulate the equation haphazardly. I strongly recommend the following steps. I recommend them so strongly that, if you do not follow them and you get a wrong answer I will not give you any partial credit. 
+ As you solve a linear equation, please do not manipulate the equation haphazardly. I strongly recommend the following steps. 
+ I recommend them so strongly that, if you do not follow them and you get a wrong answer I will not give you any partial credit. 
 (1) Simplify each side individually. (That is, do nothing that affects both sides simultaneously.) Once each side is simplified...
 (1b) If necessary, use an LCD to clear fractions or unwieldy decimals. Then...
-(2) Collect all the *variable* terms on one side, either the left or the right. (Specifically, do NOT transport any constant terms or factors yet.) There should now be only one occurrence of the variable, so...
+(2) Collect all the *variable* terms on one side, either the left or the right. 
+(Specifically, do NOT transport any constant terms or factors yet.) 
+There should now be only one occurrence of the variable, so...
 (3) Isolate it. You may now work with the individual constants.
 Think “SCI” as in “science”.
 
@@ -130,7 +138,8 @@ Provide both the equation you solved and the final answer.
 3. A DVD player is discounted by 30% to $112. What is its original price?
 
 Putative Answers
-Additional Exercises: Below, x = the original price in dollars. I used percentages in the equations but that equivalent decimals are acceptable as well. 
+Additional Exercises: Below, x = the original price in dollars. 
+I used percentages in the equations but that equivalent decimals are acceptable as well. 
 Add’l Ex. #1. Equation: x - (12.5%)x = 420  or  x - 420 = (12.5%)x. 
 Answer: The original price is $480.
 Add’l Ex. #2. Equation: x + (6%)x = 23,850.
