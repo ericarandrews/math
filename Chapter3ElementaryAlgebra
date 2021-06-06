@@ -1,0 +1,50 @@
+Math 40 - Chapter 3
+
+
+Section 3.1
+
+* Please notice that a point's coordinates may be any real numbers, not just integers.
+* Notice also that I do not capitalize the c in "cartesian".  
+My teachers taught me to capitalize people's names but not adjectives derived from those names.
+* Here's a pseudo-mnemonic for remembering the coordinates of the origin: 
+The ordered pair (0,0) looks like an owl's face, so think of it as the original owl. 
+(Tip o' th' pencil to my colleague Ms. Lockman)
+
+Note:
+- Coordinates : Points : Ordered Pairs
+
+***********************************************
+
+Additional Exercises
+Determine whether the ordered pairs are solutions of the equation.
+1.) Equation: (-x^2)(y) = 12; 
+Ordered Pairs: a.) (-2,-3); b.) (1, -12); c.) (-1, 12);
+2.) Equation: (2x^3) + (3y^2) = x + 11; 
+Ordered Pairs: a.) (1, -1); b.) (-1, -2);
+
+1a.) -(-2)^2(-3) = -(4)(-3) = -4(-3) = 12; (Yes)
+1b.) -(1)^2(-12) = -(1)(-12) = -1(-12) = 12; (Yes)
+1c.) -(-1)^2(12) = -(1)(12) = -1(12) = -12; (No)
+
+2a.) 
+2(1)^3 + 3(-1)^2 = 1 + 11  
+2(1) + 3(-1) = 12 
+2 - 3 = 12  
+-1 = 12; (No)
+
+2b.) 
+2(-1)^3 + 3(-2)^2 = -1 + 11   
+2(-1) + 3(4) = 10 
+-2 + 12 = 10   
+10 = 10; (Yes)
+
+****************************************************************************************
+
+Section 3.3
+
+* Please note that I will require you to report intercepts as ORDERED PAIRS, not just as numbers. 
+Thus, in your final answers your x-intercepts should look like (a,0) 
+for some number a and your y-intercepts should look like (0,b) for some number b.
+
+
+
