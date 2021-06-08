@@ -1,0 +1,249 @@
+Math 40 - Chapter 4
+
+
+Section 4.2
+
+This section is about the solution method called Substitution. 
+It is an algebraic alternative to graphing for solving a system of two linear equations in two variables.
+
+*************************************************************************************************
+
+Peppermint Pattie has another problem! It has three unknowns but see if you can solve it by substitution. 
+Clarification: In the last part of the problem, the “in ten years” affects both the man’s and the children’s ages. 
+
+“A man has a daughter and a son…The son is three years older than the daughter. 
+In one year the man will be six times as old as the daughter is now and in ten years he will be fourteen years older than the combined ages of his children…
+What is the man’s present age?”
+
+Givens:
+Daughter: D;
+Son: 3 yrs older than the daughter; S;
+
+
+What is the man's present age?
+
+S = D + 3(yrs);
+M + 1(yrs) = 6D;
+M + 10(yrs) = (D + 10) + (S + 10) + 14
+
+M + 1 = 6D
+D = (M + 1)/6
+
+M + 10 = [(M + 1)/6 + 10] + ([(M + 1)/6 + 3] + 10) + 14
+M + 10 = [(M + 1) + (M + 1)]/6 + 10 + 3 + 10 + 14
+M + 10 = [(M + 1) + (M + 1)]/6 + 37
+M + 10 = (2M + 2)/6 + 37
+[M = (2M + 2)/6 + 27]6
+6M = 2M + 2 + 162
+6M = 2M + 164
+4M = 164
+M = 41
+The Man is 41 yrs old.
+
+D = (M + 1)/6
+D = (41 + 1)/6
+D = 42/6
+D = 7
+The Daughter is 7 years old.
+
+S = D + 3
+S = 7 + 3
+S = 10
+The Son is 10 years old. 
+
+Answer: The man is 41 years old. (His children are 7 and 10.)
+
+*****************************************************************************
+
+Systems of Equations with Fractions
+
+Y = (⅓)x - 1; 3x - 2y = 4;
+
+3x - 2((⅓)x - 1) = 4
+(3)(3x - (⅔)x + 2) = (4)(3)
+9x - 2x + 6 = 12
+7x + 6 = 12
+7x = 6
+x = (6/7)
+
+Y = (⅓)(6/7) - 1
+Y = (2/7) - 1
+Y = (2/7) - (7/7)
+Y = (-5/7)
+
+Answer: {(6/7), (-5/7)};
+
+*************************************************************************************************
+
+Section 4.3
+This section is on the solution method called Elimination. 
+It is another algebraic alternative to graphing as a way to solve two-variable linear systems. 
+It has several advantages over substitution that will become apparent in later math classes.
+
+Now that we know multiple methods for solving systems of two linear equations in two variables, it will be important to read instructions carefully. 
+If the instructions specify a solution method (graphing, substitution, or elimination) then we must use that method to earn credit, 
+even if we get the correct final answer. If the instructions do not specify a method, then we may choose the method we prefer.
+
+Solving Systems of Equations
+
+3x + y = 5
+7x - y = 15
+—————
+10x = 20
+x = 2
+
+3(2) + y = 5
+6 + y = 5
+y = -1
+
+Answer: {(2 -1)};
+
+******************************************************************
+
+Elimination
+
+3x + 2y = -17
+(-3)(x - 3y = 9)
+
+ 3x + 2y = -17
+-3x + 9y = -27
+———————
+        11y = -44 
+    y = -4
+
+x - 3y = 9
+x - 3(-4) = 9
+x + 12 = 9
+x = -3
+
+Answer: {(-3, -4)};
+
+******************************************************************
+
+https://m.youtube.com/watch?v=ZOilSK7dKag
+
+6x − 5y = 14
+4x + 3y = 3
+________________
+
+2(6x - 5y = 14)   —>  12x - 10y = 28
+-3(4x + 3y = 3)   —> -12x - 9y = -9
+_________________________________________
+                                          -19y = 19
+                                               y = -1
+6x - 5y = 14
+6x - 5(-1) = 14
+6x + 5 = 14
+6x = 9
+x = 9/6 
+x= 3/2
+
+Answer: {(3/2, -1)};
+
+*************************************************************************************************
+
+Section 4.4
+
+
+This section covers applications of linear systems in various contexts.
+
+ 
+1.) Try using two variables, one for the uphill time and one for the downhill time, 
+to solve this “Round Trip Hike” problem: Hilda hikes uphill at 3 kph and downhill at 4 kph. 
+She leaves home at 8 a.m., hikes uphill, immediately turns around at the top, hikes downhill, 
+follows the same route down, and returns home at 3 p.m. 
+When did she reach the hilltop? How far is it from her home to the hilltop? 
+
+Uphill time: 3 km : x
+Downhill time: 4 km : y
+Leaves: 8 a.m.
+Returns: 3 p.m.
+
+System: 3x = 4y; x + y = 7 (hours)
+
+x + y = 7 —> y = -x + 7
+
+3x = 4(-x + 7)
+3x = -4x + 28
+7x = 28
+x = 4
+
+x + y = 7
+4 + y = 7
+y = 3
+
+Solving for time: When does she reach the hilltop?
+8am to 3pm = 7 hours
+x = 4 (Uphill); y = 3 (Downhill); 
+8am + 4 (Uphill) = 12pm (Noon);
+Testing:
+12pm + 3 (Downhill) = 3pm;
+She reaches the hilltop at 12pm (Noon).
+   
+Solving for km: How far is the hilltop from her home?
+3x = 4y
+3(4) = 4(3) 
+12 = 12
+The hilltop is 12 km from her home.
+
+Answer: The system is “3x = 4y and x + y = 7”. She reaches the hilltop at noon. The hilltop is 12 km from Hilda’s home.
+
+*************************************************************************************************
+
+For #2 and #3, write a contextualized word problem that is symbolized by the given system. Pick one for a Discussion Response.
+
+2.) x + y = 10; 0.07x + 0.2y = (0.15)(10)
+3.) x + y = 200; 40x + 55y = 10,000
+
+
+Discussion Response Pick:
+
+2.) 
+
+x + y = 200
+40x + 55y = 10000
+
+Item one (x) equals $40 per unit in measurement.
+Item two (y) equals $55 per unit in measurement.
+Together, the items equal to $10,000.
+Together, units of item one (x) and units of item two (y) equal to 200 units.
+How many units is each item?
+
+Solving for y:
+x + y = 200
+y = 200 - x
+
+40x + 55y = 10000
+40x + 55(200 - x) = 10000
+40x + (11000 - 55x) = 10000
+40x + (-55x) + (11000) = 10000
+-15x + 11000 = 10000
+-15x = -1000
+               
+x = (1000/15) = (200/3) ~ 66.67 units in measurement
+Item one equals about 66.67 units in measurement.
+
+x + y = 200
+(200/3) + y = 2003
+[(200/3) + y = 200](3)
+200 + 3y = 600
+3y = 400
+y = (400/3) ~ 133.33 units in measurement
+Item two equals about 133.33 units in measurement.
+
+Testing: 
+x + y = 200
+(200/3) + (400/3) = 200
+(600/3) = 200
+200 = 200
+
+40x + 55y = 10000
+40(200/3) + 55(400/3) = 10000
+(8000/3) + (22000/3) = 10000
+(30000/3) = 10000
+10000 = 10000
+
+
+
+
+
