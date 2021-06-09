@@ -1,0 +1,218 @@
+
+Math 40 - Chapter 3-4
+
+
+Section 3.4 
+
+Please note that for vertical lines or line segments, we always answer something like "no slope" or "undefined slope". 
+Do not write zero. 
+Do not write "n/a" or "∅". 
+Do not answer "infinite" or "infinity" or "∞". 
+Do not use the empty-set symbol; slopes are not sets.
+
+*************************************************************************************************
+
+What if we want to graph Y = -2?
+Where's X? If the X isn’t there, then it can be anything! 
+And y is locked in at -2.
+So, what would this look like?
+It's a horizontal line! Straight across and it can be anything!
+
+So, what’s the slope of this line? Grab two points and see?
+M = (Y2 - Y1) / (X2 - X1) = [-2 - (-2)] / [-1 - 0] = (0/1) = 0
+The slope of a horizontal line is 0! 
+
+It can be hard to remember when the line on the graph is horizontal or vertical. 
+Remember that when you see Y = -2, Y is always -2 and X can be anything! 
+This might help you tell what the graph should look like. 
+
+“Uphill” : Positive Slope : Line on graph looks like /
+“Downhill” : Negative Slope : Line on graph looks like \
+Horizontal : Slope = 0 : Line on graph looks like —
+Vertical : Slope is Undefined : Line on graph looks like |
+
+Slope of a Line
+M = Rise / Run = (Y2 - Y1) / (X2 - X1)
+M = Slope
+(X1, Y1) = Coordinates of first point in the line
+(X2, Y2) = Coordinates of second point in the line
+
+**************************************************
+
+Slope of the line
+
+
+Graph: -2x + y = -1 —> y = 2x -1;
+x  |  y
+0   -1
+1    1
+2    3
+3    5
+
+(Rise / Run) =  (Change Y by 2 / Change X by 1) = (2/1);
+Slope = (2/1);
+
+
+Graph: y = -(3/2)x + 2
+x  |  y
+0    2
+2   -1
+4   -4
+
+Slope = -(3/2);
+ 
+
+Note: If you isolate y, you get the slope of the line from the value of x. 
+
+y = 2x - 1
+Slope = 2 = 2/1 = rise/run
+y-intercept = -1
+
+**************************************************
+
+Find the slope of a line with two points
+
+
+Points: (1,1) and (5,3);
+M = (Y2 - Y1) / (X2 - X1);
+M = (3-1) / (5-1);
+M = (2/4);
+
+Find The Slope of The Line Through (-1,3), (-3,5):
+M = (Y2 - Y1) / (X2 - X1);
+M = (5-3) / (-3+1)
+M  = (2 / -2)
+M = -1
+
+*************************************************************************************************
+
+Section 3.5
+
+
+Additional Exercises
+
+(This exercise is an excuse to practice your fraction skills.) 
+Find the slope-intercept and general ("Ax+By=C") forms for the equation of the line whose x-intercept 
+is where x=-3/2 and whose y-intercept is where y=–27/4.
+
+Putative Answers
+
+The slope-intercept form is: 𝑦 = −3/2𝑥 − 27/4...
+There are many general forms. One is 18x + 4y = -27.
+
+**************************************************
+
+Recognizing lines and slope intercept form
+
+Standard Form: Ax + By = C;
+
+**************************************************
+
+Slope - Intercept Form of a Line
+
+Ex: 2x + 3y = 6;
+Isolate y: 2x + 3y = 6 —> 3y = 6 - 2x —> y = 2 - (⅔)x —> y = (⅔)x + 2;
+M = Slope = (-⅔);
+Y-Intercept = 2;
+Slope-Intercept Form: Y = Mx + B;
+
+**************************************************
+
+Identify The Slope and Y-Intercept
+
+Y = (X/4) - 2
+Y = Mx + B
+Y = (¼)x - 2
+M = (¼)
+B = -2
+
+**************************************************
+
+Graphing Lines using Slope, Y-Intercept
+
+Graph: -2x + y = -3;
+Slope Intercept Form: Y = Mx + B: y = 2x - 3;
+M = Slope: 2;
+B = Y-Intercept: -3;  
+
+**************************************************
+
+Graph: 2x + 3y = 6;
+Slope Intercept Form: Y = Mx + B: y = (-⅔)x + 2;
+M = Slope: (-⅔);
+B = Y-Intercept: 2;  
+
+**************************************************
+
+Finding the Slope Intercept Form of the Equation of the Line
+
+Ex. Find the slope-intercept form of the line. 
+2x + 3y = 24 —> y = Mx + B —> y = (-⅔)x + (8);
+
+**************************************************
+
+Ex. Is (6,4) on the line y = (-⅔)x + 8?
+4 = (-⅔)(6) + 8
+4 = -4 + 8
+4 = 4;
+YES!
+
+**************************************************
+
+Ex. Find b such that (-3,2) is on the line y = 2x +B.
+-2 = 2(3) + B
+-2 = 6 + B
+B = -8;
+
+Y = 2x - 8;
+
+**************************************************
+
+Find the slope-intercept form of the equation of the line through the points (-1,2), (3,8). 
+Y = Mx + B
+Slope = M = (Y2 -Y1) / (X2 -X1) = (8-2) / (3+1) = (6/4) = (3/2);
+Y = (3/2)x + B
+2 = (3/2)(-1) + b
+[2 = (-3/2) + b](2)
+4 = -3 + 2b
+7 = 2b
+b = (7/2)
+ 
+Y = (3/2)x + (7/2);
+
+*************************************************************************************************
+
+Section 4.1
+
+
+Solving a linear system by graphing
+
+
+Graph: 3x - 2y = 4; 2x - y = 1;
+
+Slope Intercept Form: Y = Mx + B: y = (3/2)x - 2;
+M = Slopes: (3/2);
+B = Y-Intercepts: -2;  
+Slope Intercept Form: Y = Mx + B: y = 2x - 1;
+M = Slopes: 2;
+B = Y-Intercepts: -1;  
+
+Answer: (-1,-3);
+
+**************************************************
+
+In #1 and 2, symbolize as a system in two variables and then solve by graphing.
+1.) The sum of two unknown numbers is 1. The second number is three less than the first.
+2.) Half of one unknown number decreased by a second number yields 2. The first number is four more than twice the second. 
+3.) It is important to know that not all graphs are lines. The Application exercises illustrate this to some extent. 
+Here’s another. Solve this system by graphing: { y = (x^2); y = x + 2; }
+
+1.)
+Answer: System { x + y = 1; y = x - 3; Solution set: {(2, -1)}; }
+2.)
+Answer: System { (½)x - y = 2; x = 2y + 4; There are infinitely many solutions because the two equations have the same graph; } 
+3.)   
+y = (x^2); 
+y = x + 2;
+Answer: {(-1,1),(2,4)}
+
