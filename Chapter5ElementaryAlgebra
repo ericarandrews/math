@@ -38,22 +38,24 @@ Note: Very large exponents are used to prevent your calculators from doing the w
 
 Section 5.4
 
-In this section, we learn to recognize monomials and polynomials, to analyze the structure of a polynomial, and to use the nomenclature associated with the parts of polynomials.
-
-
+In this section, we learn to recognize monomials and polynomials, to analyze the structure of a polynomial,
+and to use the nomenclature associated with the parts of polynomials.
 
 “Cubic” means the degree is 3, as in (2x^3) - (4x^2) - (52x^3) - (4x^2) - 5. 
 “Quadratic” means the degree is 2 (not 4), as in 1 - 2t + 7t^2.
 “Linear” means the degree is 1, as in good ol’ “mx+b”.
 “Constant” means the degree is 0.
 
-Note also that the lead term is the term of highest degree no matter where it occurs. It is not always the first term unless, say, the terms are in descending order. I recommend always re-writing a polynomial so that its terms are in “descending order” before analyzing its structure. 
+Note also that the lead term is the term of highest degree no matter where it occurs. 
+It is not always the first term unless, say, the terms are in descending order. 
+I recommend always re-writing a polynomial so that its terms are in “descending order” before analyzing its structure. 
 
-As the text says, “polynomial” means (essentially) “many terms” while “monomial” means “one term”. That word should really be “mono-nominal” but that sounds like a disease. (Indeed, the word “monomial'' is an example of a haplogy, which is itself a haplogy for haplology.)
+As the text says, “polynomial” means (essentially) “many terms” while “monomial” means “one term”. 
+That word should really be “mono-nominal” but that sounds like a disease. 
+(Indeed, the word “monomial'' is an example of a haplogy, which is itself a haplogy for haplology.)
+
 
 Additional Exercises
-
-
 
 For each of the following, identify the degree, the lead coefficient, and the constant term:
 
@@ -92,10 +94,13 @@ Degree = 2 (“quadratic”);
 Lead Coefficient = (-3/7);
 Constant Term = π;
 
-12. Some texts will say that the degree of the zero polynomial (the constant 0) is -∞. Can you figure out why that is reasonable?
+12. Some texts will say that the degree of the zero polynomial (the constant 0) is -∞. 
+Can you figure out why that is reasonable?
 
-For non-zero polynomials, degrees add up when we multiply them. For example, the product of a quadratic (degree 2) and a cubic (degree 3) is a 5th-degree polynomial (“quintic”). This doesn’t happen if we multiply the zero polynomial by another polynomial because the product is always zero. In order to keep the “additivity” property, we must assign the zero polynomial the degree -∞. 
-
+For non-zero polynomials, degrees add up when we multiply them. 
+For example, the product of a quadratic (degree 2) and a cubic (degree 3) is a 5th-degree polynomial (“quintic”). 
+This doesn’t happen if we multiply the zero polynomial by another polynomial because the product is always zero. 
+In order to keep the “additivity” property, we must assign the zero polynomial the degree -∞. 
 
 
 YouTube Video Examples
@@ -116,14 +121,12 @@ Binomial
 54x + 8 
 
 
-
 Example: (6x^4) - (5x^2) + 7 
 Terms: (6x^4), (-5x^2), 7 
 Coefficient: 6, -5, 7 
 Degree: 4th, 2nd, 0
 Leading Term: (6x^4)
 Leading Coefficient: 6
-
 
 
 Example: (3x^2) + 8 - 9x + (7x^5)
@@ -135,7 +138,6 @@ Leading Coefficient: 7
 Degree Polynomial: 5
 
 
-
 Example: 7xy + (6x^2y) - 8 + (3x^2y^3) - (5xy^2)
 Terms: (3x^2y^3) + (6x^2y) - (5xy^2) + 7xy - 8
 Coefficient: 3, 6, -5, 7, -8
@@ -145,14 +147,14 @@ Leading Coefficient: 3
 Degree Polynomial: 5
 
 
-
 *************************************************************************************************
 
 Section 5.5
 
-In this section, we learn to add and subtract polynomials. In particular, we learn to be especially careful when subtracting polynomials.
-
-Please note that I will not require you to use the so-called "vertical format" to add or subtract polynomials. Indeed, I encourage you to master operating on polynomials horizontally.
+In this section, we learn to add and subtract polynomials. 
+In particular, we learn to be especially careful when subtracting polynomials.
+Please note, it is not required of you to use the so-called "vertical format" to add or subtract polynomials. 
+You are encouraged to master operating on polynomials horizontally.
 
 YouTube Video Example:
 
@@ -163,25 +165,17 @@ YouTube Video Example:
 (9x^2) - 7x + 13 - (5x^2) + 7x + 14 = 
 (4x^2) + 27
 
-
 [(3x^3) - 5x + 8] - [(7x^2) + 6x - 9] = 
 (3x^3) - 5x + 8 - (7x^2) - 6x + 9 = 
 (3x^3) - (7x^2) - 11x + 17
-
-
-
-
 
 *************************************************************************************************
 
 Section 5.6
 
 In this section, we learn to multiply polynomials and how to apply products of polynomials to solve problems.
-
-* As you read this section's narrative, pay special attention to the multiplication method in subsection 3 called FOIL. Pay attention also to the multiplication method in subsection 4 and illustrated in Examples 6 and 7. Some instructors call this method "each by every" but I like to call it SuperFOIL! (Example 7 illustrates the so-called "vertical" format for multiplying polynomials; however, I urge you to master the horizontal format. The vertical format is like riding a bicycle with training wheels. Which, by the way, I did for several months, much to my father's horror.)
-* Do the odd-numbered Guided Practice exercises and as many of the Try-It-Yourself exercises as you can. Be sure to include some with fractions (like #87 and 89) and some with trinomials (like #101 and 103).
-
-
+Some instructors call this multiplication method "each by every" but some call it SuperFOIL! 
+Note: There exists the "vertical" format for multiplying polynomials, and the "horizontal" format.
 
 Use SuperFOIL to multiply: [(x^2) + 2xy + (2y^2)][(x^2) - 2xy + (2y^2)]
 
@@ -210,13 +204,9 @@ Multiplying a Binomial by a Trinomial
 (2x^3) + (x^2) - 12x + 9
 
 Multiplying a Trinomial by a Trinomial
-
 Foil
-
-
 SuperFoil
 Multiplying a Binomial by a Trinomial
-
 
 
 Multiplying a Trinomial by a Trinomial
@@ -230,15 +220,11 @@ Multiplying a Trinomial by a Trinomial
 (6x^4) + (16x^3) + (7x^2) - 14x - 15
 
 
-
-
 *************************************************************************************************
 
 Section 5.7
 
 In this section, we learn to recognize and apply specific multiplication results called the special products of polynomials.
-
-
 
 
 (a^2) + (b^2) = (a + b)(a + b)
@@ -300,8 +286,6 @@ Quick Reference: (a^2) - (b^2) = (a + b)(a - b)
 (64x^2) - (121y^2) = 
 (8x + 11y)(8x - 11y)
 
-
-
 Quick Reference: (a^2) + 2ab + (b^2) = (a + b)^2 
 
 (x^2) + 10x + 25 = 
@@ -311,7 +295,6 @@ a = x
 b = 5
 
 (x + 5)^2
-
 
 
 y^2 - 8y + 16
@@ -331,18 +314,15 @@ b = 4
 (3a + 4)^2
 
 
-
 Quick Reference: (a^3) + (b^3) = (a + b)[(a^2) - ab + (b^2)]
 
 x^3 + 8 = (x+2)[(x^2) - 2x + 4]
 a = x
 b = 2
 
-
 (27x^3) + 64 = (3x + 4)[(9x^2) - 12x + 16]
 a = 3x 
 b = 4
-
 
 
 Quick Reference: (a^3) - (b^3) = (a - b)[(a^2) + ab + (b^2)]
@@ -355,15 +335,12 @@ b = 3
 (2)[(8x^3) - 27] = 
 (2)(2x - 3)[(4x^2) + 6x + 9]
 
-
-
 (125x^3) - (216y^9) = 
 (a^3) = (125x^3)
 (b^3) = (216y^9)
 a = 5x
 b = (6y^3)
 [5x - (6y^3)][(25x^2) + (30xy^3) + (36y^6)]
-
 
 
 Quick Reference: (a + b)^2 = (a^2) + 2ab + (b^2)
@@ -385,15 +362,10 @@ Example:
 (8x^3) - (36x^2) + 54x - 27 
 
 
-
-
-
-
 Example:
 (4)[(3x^2) + 6x - 8] - (3)[(2x^2) - 5x + 7] = 
 (12x^2) + 24x - 32 - 6x^2 + 15x - 21 = 
 (6x^2) + 39x - 53 
-
 
 
 Example: 
@@ -409,19 +381,16 @@ Example:
 (4x^2) - 20x + 25
 
 
-
 Example:
 (4x - 2)[(x^2) + 3x - 5] = 
 (4x^3) + (12x^2) - 20x - (2x^2) - 6x + 10 = 
 (4x^3) + (10x^2) - 26x + 10 
 
 
-
 Example:
 [(3x^2) - 5x + 7][(2x^2) + 6x - 4]
 [(6x^4) + (18x^3) - (12x^2) - (10x^3) - (30x^2) + 20x + (14x^2) + 42x - 28] = 
 [(6x^4) + (8x^3) - (28x^2) + 62x - 28] 
-
 
 
 *************************************************************************************************
@@ -431,7 +400,6 @@ Division
 Example: [(x^2) + 7x + 12] / (x + 3) =
 [(x+3)(x+4)] / (x+3) = 
 x + 4
-
 
 
 Long Division with a Trinomial
@@ -454,8 +422,6 @@ Answers gathered from Steps = 2x - 3
 **********************************************
 
 
-
-
 Another way to solve this example: 
 
 [(2x^2) - x + 6] / (x - 2) = 2x - 3
@@ -464,14 +430,10 @@ x - 2 = 0
 x = 2
 
 2 * | 2 |     -7       |       6       |
-             (2*2)=4    (2*-3)=-6
-                 4              -6
-     ———————————-
-        2      -3               0
+            (2*2)=4        (2*-3)=-6
+               4              -6
+     ———————————-----------------------------
+      2       -3               0
 
 Answer: 2x - 3  Remainder 0
-        
-
-
-
-
+       
