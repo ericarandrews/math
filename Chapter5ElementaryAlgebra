@@ -8,6 +8,7 @@ We are not responsible for the "Quotient Rule" and the "Power of a Quotient".
 Also, you can't just write out all the x's and cancel them in pairs, with very large exponents. 
 You must use the Properties instead.
 
+
 Simplify:
 [(3^516)(x^943)] / [(3^514)(x^950)]
 
@@ -17,9 +18,11 @@ Solution: Apply the Quotient Property separately to the 3s and the x’s to get:
 [(3^2) / (x^7)] = 
 [(9) / (x^7)]
 
+
 Note: We could write that as (9x^-7) if the instructions allow negative exponents in final answers. 
 
 Note: Very large exponents are used to prevent your calculators from doing the work for you.
+
 
 1.) Evaluate: 
 [(15^200)(20^300)] / [(15^202)(20^299)] = 
@@ -34,6 +37,7 @@ Note: Very large exponents are used to prevent your calculators from doing the w
 [(x^(531-533)) / (y^(314-310))] = 
 [(x^-2) / (y^4)] =  
 [(y^4) / (x^2)]
+
 
 *************************************************************************************************
 
@@ -157,6 +161,7 @@ In particular, we learn to be especially careful when subtracting polynomials.
 Please note, it is not required of you to use the so-called "vertical format" to add or subtract polynomials. 
 You are encouraged to master operating on polynomials horizontally.
 
+
 YouTube Video Example:
 
 [(4x^2) + 5x + 7] + [(3x^2) - 8x + 12] =
@@ -170,6 +175,7 @@ YouTube Video Example:
 (3x^3) - 5x + 8 - (7x^2) - 6x + 9 = 
 (3x^3) - (7x^2) - 11x + 17
 
+
 *************************************************************************************************
 
 Section 5.6
@@ -178,7 +184,8 @@ In this section, we learn to multiply polynomials and how to apply products of p
 Some instructors call this multiplication method "each by every" but some call it SuperFOIL! 
 Note: There exists the "vertical" format for multiplying polynomials, and the "horizontal" format.
 
-Use SuperFOIL to multiply: [(x^2) + 2xy + (2y^2)][(x^2) - 2xy + (2y^2)]
+
+Use SuperFOIL to multiply: 
 
 [(x^2) + 2xy + (2y^2)][(x^2) - 2xy + (2y^2)] = 
 
@@ -188,9 +195,11 @@ Use SuperFOIL to multiply: [(x^2) + 2xy + (2y^2)][(x^2) - 2xy + (2y^2)]
 
 (x^4) + (4y^4)
 
+
 *************************************************************************************************
 
 YouTube Video Examples:
+
 
 FOIL
 (3x + 2)(2x - 1) =
@@ -205,13 +214,6 @@ Multiplying a Binomial by a Trinomial
 (2x^3) + (x^2) - 12x + 9
 
 Multiplying a Trinomial by a Trinomial
-Foil
-SuperFoil
-Multiplying a Binomial by a Trinomial
-
-
-Multiplying a Trinomial by a Trinomial
-
 [(3x^2) + 2x - 5][(2x^2) + 4x + 3] = 
 
 (6x^4) + (12x^3) + (9x^2) + 
@@ -357,6 +359,7 @@ Quick Reference: (a + b)^2 = (a^2) + 2ab + (b^2)
 
 *************************************************************************************************
 
+
 Example: 
 (2x - 3)^3 =
 [(2x - 3)(2x - 3)(2x - 3)] =
@@ -401,14 +404,17 @@ Example:
 
 Division
 
-Example: [(x^2) + 7x + 12] / (x + 3) =
+
+Example: 
+[(x^2) + 7x + 12] / (x + 3) =
 [(x+3)(x+4)] / (x+3) = 
 x + 4
 
 
 Long Division with a Trinomial
 
-Example: [(2x^2) - x + 6] / (x - 2)
+Example: 
+[(2x^2) - x + 6] / (x - 2)
 
 Step 1: (2x^2) / (x) = 2x
 
@@ -422,6 +428,7 @@ Step 2: (-3x) / (x) = -3
 (-3x + 6) - (-3x + 6) = 0
 
 Answers gathered from Steps = 2x - 3
+
 
 **********************************************
 
